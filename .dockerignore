@@ -1,0 +1,12 @@
+.git
+.gitignore
+.venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.python-version
+.env
+index.ipynb
+chroma_db2.zip
+gitlab_chunks.pkl
