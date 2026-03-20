@@ -1,12 +1,3 @@
----
-title: GitLab RAG Backend
-emoji: 📚
-colorFrom: orange
-colorTo: red
-sdk: docker
-app_port: 7860
----
-
 # GitLab RAG Chatbot Backend
 
 ## Overview
